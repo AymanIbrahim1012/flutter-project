@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966384801977",
+    "project_id": "e-visor-335c2",
+    "storage_bucket": "e-visor-335c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966384801977:android:c55016b67ffd858c1de368",
+        "android_client_info": {
+          "package_name": "com.example.e_visor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966384801977-8bhuggtgv6mf2ns1vd05kju881blf97a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDIwHUytwUkvMo6EN3ac4tQ9-CG377OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966384801977-8bhuggtgv6mf2ns1vd05kju881blf97a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
